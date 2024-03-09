@@ -1,4 +1,4 @@
-# Responsive-Shopee-Clone-Website
+# Responsive-Shopee-Clone-Website-No-JS
 This is a repo that I use for saving the project from practicing HTML and CSS. The project is also a clone website and I chose the Shopee E-commerce website as the main one.
 
 --> Original Template: https://shopee.vn/delivietnam#product_list
